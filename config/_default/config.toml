@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://se0n9.github.io"
+baseurl = "https://se0n9.github.io/"
 languageCode = "en-us"
 title = "se0n9's Archive"
 
