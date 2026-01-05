@@ -1,8 +1,8 @@
 ---
 title: "Whoami"
-description: "Security Researcher | Computer Science Student"
+description: "Cybersecurity Researcher | Computer Science Student"
 date: 2026-01-04
-layout: "page"
+layout: "Whoami"
 menu:
     main:
         weight: -100
